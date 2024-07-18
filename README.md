@@ -19,7 +19,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   - **Medical Research**: Useful for studies in oncology, particularly breast cancer, where contrast enhancement is a key diagnostic feature.
   - **Machine Learning**: Can be used to train models for automated detection and classification of contrast-enhanced regions in MRI scans.
   - **Image Processing**: Ideal for developing and testing algorithms for MRI image enhancement, segmentation, and analysis.
-  - 
+  
 <table>
   <tr>
     <th>Category</th>
