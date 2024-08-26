@@ -59,7 +59,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   <tr>
     <th rowspan="4">Image Characteristics</th>
     <td>Image Dimensions</td>
-    <td>(352 x 352 x [120-150]) mm</td>
+    <td>(352 x 352 x [120-150]) </td>
   </tr>
   <tr>
     <td>Pixel Spacing (mm)</td>
