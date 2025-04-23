@@ -71,7 +71,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   </tr>
   <tr>
     <td>Field of View (FOV) (mm)</td>
-    <td>400</td>
+    <td>340</td>
   </tr>
   <tr>
     <th rowspan="4">Imaging Features</th>
