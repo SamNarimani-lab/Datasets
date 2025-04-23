@@ -93,8 +93,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
 </table>
 
 ### Dataset 2: Duke Dataset
-
-
+- **Description**: The Duke Datasets comprise Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI) scans from 922 patients diagnosed with invasive breast cancer through biopsy, provided by Duke University. The collection features axial breast MRI images captured using 1.5T or 3T scanners with patients in the prone position. The shared MRI sequences, available in DICOM format, include a non-fat saturated T1-weighted scan, a fat-saturated gradient echo T1-weighted scan taken before contrast administration, and typically three to four post-contrast scans.
 
 
 
