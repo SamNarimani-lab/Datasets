@@ -19,6 +19,8 @@ Below, you will find descriptions of each dataset, including the source, preproc
   - **Medical Research**: Useful for studies in oncology, particularly breast cancer, where contrast enhancement is a key diagnostic feature.
   - **Machine Learning**: Can be used to train models for automated detection and classification of contrast-enhanced regions in MRI scans.
   - **Image Processing**: Ideal for developing and testing algorithms for MRI image enhancement, segmentation, and analysis.
+- **Data Access**:
+  - It will be available upon reasonable request through the institution.
   
 <table>
   <tr>
@@ -37,7 +39,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   </tr>
   <tr>
     <td>Patient Position</td>
-    <td>Head-first supine (HFP)</td>
+    <td>Head-first Prone (HFP)</td>
   </tr>
   <tr>
     <td>Number of Images</td>
@@ -95,5 +97,75 @@ Below, you will find descriptions of each dataset, including the source, preproc
 ### Dataset 2: Duke Dataset
 - **Description**: The Duke Datasets comprise Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI) scans from 922 patients diagnosed with invasive breast cancer through biopsy, provided by Duke University. The collection features axial breast MRI images captured using 1.5T or 3T scanners with patients in the prone position. The shared MRI sequences, available in DICOM format, include a non-fat saturated T1-weighted scan, a fat-saturated gradient echo T1-weighted scan taken before contrast administration, and typically three to four post-contrast scans.
 
-
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Attribute</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+<th rowspan="4">Study Information</th>
+    <td>Patient Number</td>
+    <td>922</td>
+  </tr>
+  <tr>
+    <td>Weight (kg)</td>
+    <td>71 ± 7</td>
+  </tr>
+  <tr>
+    <td>Patient Position</td>
+    <td>HFP and FFP</td>
+  </tr>
+  <tr>
+    <td>Number of Images</td>
+    <td> 4 or 5(1 pre-contrast, 3 or 4 post-contrast)</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Scanner Properties</th>
+    <td>Scanner Model</td>
+    <td>GE and Siemens MRI Scanner</td>
+  </tr>
+  <tr>
+    <td>Field Strength (T)</td>
+    <td>1.5 and 3</td>
+  </tr>
+  <tr>
+    <td>Coil Technology</td>
+    <td>SENSE</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Image Characteristics</th>
+    <td>Image Dimensions</td>
+    <td>(320 x 320 or 512 x512 or 448 x 448 ) </td>
+  </tr>
+  <tr>
+    <td>Pixel Spacing (mm)</td>
+    <td>0.59, 0.66, 0.80, ...</td>
+  </tr>
+  <tr>
+    <td>Slice Thickness (mm)</td>
+    <td>1,1.1,1.2,1.39, ...</td>
+  </tr>
+  <tr>
+    <td>Field of View (FOV) (mm)</td>
+    <td>340</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Imaging Features</th>
+    <td>MRI Sequence</td>
+    <td>T1-weighted fast spoiled gradient echo (FSPGR)</td>
+  </tr>
+  <tr>
+    <td>Repetition Time (TR)</td>
+    <td>3.7, 4.44, ... ms</td>
+  </tr>
+  <tr>
+    <td>Echo Time (TE)</td>
+    <td>1.36, 2.4, .... ms</td>
+  </tr>
+  <tr>
+    <td>Flip Angle</td>
+    <td>12°</td>
+  </tr>
+</table>
 
