@@ -165,7 +165,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   </tr>
   <tr>
     <td>Flip Angle</td>
-    <td>12°</td>
+    <td>7°, 8°, 10°, 12°</td>
   </tr>
 </table>
 
