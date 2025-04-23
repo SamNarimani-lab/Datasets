@@ -92,7 +92,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   </tr>
 </table>
 
-### Dataset 2: Duke university breast dataset
+### Dataset 2: Duke Dataset
 
 
 
