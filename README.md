@@ -172,3 +172,76 @@ Below, you will find descriptions of each dataset, including the source, preproc
 
 ### Dataset 3: Ahus Dataset
 - **Description**: The Ahus Datasets comprise Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI) scans from around 114 patients diagnosed with invasive breast cancer through biopsy, provided by Duke University. The collection features axial breast MRI images captured using 1.5T or 3T scanners with patients in the prone position. 
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Attribute</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+<th rowspan="4">Study Information</th>
+    <td>Patient Number</td>
+    <td>922</td>
+  </tr>
+  <tr>
+    <td>Weight (kg)</td>
+    <td>71 ± 7</td>
+  </tr>
+  <tr>
+    <td>Patient Position</td>
+    <td>HFP and FFP</td>
+  </tr>
+  <tr>
+    <td>Number of Images</td>
+    <td> 4 or 5(1 pre-contrast, 3 or 4 post-contrast)</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Scanner Properties</th>
+    <td>Scanner Model</td>
+    <td>GE and Siemens MRI Scanner</td>
+  </tr>
+  <tr>
+    <td>Field Strength (T)</td>
+    <td>1.5 and 3</td>
+  </tr>
+  <tr>
+    <td>Coil Technology</td>
+    <td>SENSE</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Image Characteristics</th>
+    <td>Image Dimensions</td>
+    <td>(320x320 or 512x512 or 448x448 ) </td>
+  </tr>
+  <tr>
+    <td>Pixel Spacing (mm)</td>
+    <td>0.59, 0.66, 0.80, ...</td>
+  </tr>
+  <tr>
+    <td>Slice Thickness (mm)</td>
+    <td>1,1.1,1.2,1.39, ...</td>
+  </tr>
+  <tr>
+    <td>Field of View (FOV) (mm)</td>
+    <td>340</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Imaging Features</th>
+    <td>MRI Sequence</td>
+    <td>T1-weighted fast spoiled gradient echo (FSPGR)</td>
+  </tr>
+  <tr>
+    <td>Repetition Time (TR)</td>
+    <td>  ms</td>
+  </tr>
+  <tr>
+    <td>Echo Time (TE)</td>
+    <td>  ms</td>
+  </tr>
+  <tr>
+    <td>Flip Angle</td>
+    <td> °</td>
+  </tr>
+</table>
+
