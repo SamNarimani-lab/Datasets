@@ -170,5 +170,5 @@ Below, you will find descriptions of each dataset, including the source, preproc
   </tr>
 </table>
 
-### Dataset 2: Duke Dataset
+### Dataset 3: Ahus Dataset
 - **Description**: The Ahus Datasets comprise Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI) scans from around 114 patients diagnosed with invasive breast cancer through biopsy, provided by Duke University. The collection features axial breast MRI images captured using 1.5T or 3T scanners with patients in the prone position. 
