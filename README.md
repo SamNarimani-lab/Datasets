@@ -4,6 +4,7 @@
 In this repository, I present a collection of datasets that have been meticulously preprocessed to facilitate a wide range of data analysis and machine learning projects. Preprocessing is a crucial step in data preparation that ensures the data is clean, consistent, and ready for analysis. It involves various techniques such as handling missing values, normalizing data, transforming variables, and encoding categorical features. By preprocessing these datasets, I aim to provide a robust foundation for further exploration, model building, and research.
 Below, you will find descriptions of each dataset, including the source, preprocessing steps, key features, and potential use cases. This documentation will guide you through the specifics of each dataset, helping you understand the transformations applied and how to leverage the data effectively in your projects.
 
+# Unstructured Dataset
 ## Breast Datasets
 ### Dataset 1: Stavanger Datasets
 - **Description**: The Stavanger Datasets consist of Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI) scans obtained from 59 patients at Stavanger University Hospital in 2008. Each patient underwent a detailed imaging process, contributing six scans: one pre-contrast and five post-contrast scans. These scans are crucial for studying the contrast enhancement in tissues, providing valuable insights for medical research, particularly in oncology.
