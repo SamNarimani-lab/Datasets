@@ -182,7 +182,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   <tr>
 <th rowspan="4">Study Information</th>
     <td>Patient Number</td>
-    <td>922</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Weight (kg)</td>
@@ -194,7 +194,7 @@ Below, you will find descriptions of each dataset, including the source, preproc
   </tr>
   <tr>
     <td>Number of Images</td>
-    <td> 4 or 5(1 pre-contrast, 3 or 4 post-contrast)</td>
+    <td> 6 (1 pre-contrast, 5 post-contrast)</td>
   </tr>
   <tr>
     <th rowspan="3">Scanner Properties</th>
